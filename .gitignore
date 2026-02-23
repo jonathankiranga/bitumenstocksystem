@@ -1,0 +1,62 @@
+# Dependencies
+vendor/
+node_modules/
+composer.lock
+package-lock.json
+
+# Configuration files with sensitive data
+config.php
+config.local.php
+
+# Session and temporary files
+tmp/
+temp/
+sessions/
+cache/
+
+# Log files
+logs/
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# OS files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Database files
+*.sql
+*.sqlite
+*.db
+
+# Upload directories
+uploads/
+downloads/
+temp_uploads/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Build artifacts
+build/
+dist/
