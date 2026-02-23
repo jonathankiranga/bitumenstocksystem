@@ -1,0 +1,6 @@
+Processed 736 pages for database 'hrpayroll', file 'HRpayroll' on file 1.
+Processed 1 pages for database 'hrpayroll', file 'HRpayroll_log' on file 1.
+BACKUP DATABASE successfully processed 737 pages in 0.378 seconds (15.215 MB/sec).
+Processed 12376 pages for database 'mozillaerpv2', file 'mozillaerp 1.0' on file 1.
+Processed 1 pages for database 'mozillaerpv2', file 'mozillaerp 1.0_log' on file 1.
+BACKUP DATABASE successfully processed 12377 pages in 8.811 seconds (10.973 MB/sec).
